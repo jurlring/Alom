@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313953445316",
+    "project_id": "goolglemap-ex",
+    "storage_bucket": "goolglemap-ex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313953445316:android:89b990112ede35eab7f091",
+        "android_client_info": {
+          "package_name": "com.example.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313953445316-6hi6ar3saudtqs99vongh32amnp8c5v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqdot-b5M4L5mjV7hS9Z5sqLipJVzQ8Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313953445316-6hi6ar3saudtqs99vongh32amnp8c5v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
